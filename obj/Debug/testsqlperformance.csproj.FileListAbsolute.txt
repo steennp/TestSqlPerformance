@@ -1,0 +1,9 @@
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\bin\Debug\testsqlperformance.exe.config
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\bin\Debug\testsqlperformance.exe
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\bin\Debug\testsqlperformance.pdb
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\obj\Debug\testsqlperformance.csprojResolveAssemblyReference.cache
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\obj\Debug\testsqlperformance.Form1.resources
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\obj\Debug\testsqlperformance.Properties.Resources.resources
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\obj\Debug\testsqlperformance.csproj.GenerateResource.Cache
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\obj\Debug\testsqlperformance.exe
+c:\users\sne\documents\visual studio 2012\Projects\testsqlperformance\testsqlperformance\obj\Debug\testsqlperformance.pdb
